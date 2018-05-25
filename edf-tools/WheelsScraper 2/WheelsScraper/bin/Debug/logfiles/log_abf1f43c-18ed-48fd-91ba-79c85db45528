@@ -1,0 +1,12 @@
+2016-09-21 16:20:06,493 [5] INFO   [(null)] - Checking for updates
+2016-09-21 16:20:07,951 [5] INFO   [(null)] - Update complete. Release = 68
+2016-09-21 16:20:28,596 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2016-09-21 16:20:28,994 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2016-09-21 16:20:29,308 [1] INFO   [(null)] - You are using latest version of UniversalMapper
+2016-09-21 16:20:30,507 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2016-09-21 16:20:30,599 [1] INFO   [(null)] - Checking forced version for Zieglers
+2016-09-21 16:20:31,356 [1] INFO   [(null)] - . Data feed Zieglers loaded 
+2016-09-21 16:20:49,441 [14] INFO   [(null)] - Checking for updates
+2016-09-21 16:20:50,399 [14] INFO   [(null)] - Update complete. Release = 68
+2016-09-21 16:21:28,515 [1] INFO   [(null)] - UniversalMapper. Cancel 
+2016-09-21 16:21:28,543 [1] INFO   [(null)] - Zieglers. Cancel 

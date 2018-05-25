@@ -1,0 +1,59 @@
+2018-05-25 19:21:59,362 [5] INFO   [(null)] - Checking for updates
+2018-05-25 19:22:00,589 [5] INFO   [(null)] - Update complete. Release = 77
+2018-05-25 19:22:04,429 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2018-05-25 19:22:04,619 [1] INFO   [(null)] - Checking forced version for Jobboerse
+2018-05-25 19:22:05,539 [1] ERROR  [(null)] - System.IO.FileNotFoundException: Could not find file 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'.
+File name: 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path, Encoding encoding)
+   at Databox.Libs.Jobboerse.ucExtSettings.RefreshBindings() in D:\projects\scraper\EDF\EDF Modules\Jobboerse\ucExtSettings.cs:line 43
+   at Databox.Libs.Jobboerse.ucExtSettings.set_Sett(ScraperSettings value) in D:\projects\scraper\EDF\EDF Modules\Jobboerse\ucExtSettings.cs:line 35
+   at WheelsScraper.Jobboerse.get_SettingsTab() in D:\projects\scraper\EDF\EDF Modules\Jobboerse\Jobboerse.cs:line 44
+   at WheelsScraper.EDFManager.GetSpecialSettingsControl() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\EDFManager.cs:line 567
+   at WheelsScraper.Form1.UpdateSpecialSettings() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 624
+   at WheelsScraper.Form1.OnSelectFeed() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 561
+   at WheelsScraper.Form1.SetCurrentFeed(ISimpleScraper scrap) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 3637
+   at WheelsScraper.Form1.DoLoadProcessorConfig(String edfFileName, String libFileName, String edfUrl) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 853
+   at WheelsScraper.Form1.LoadLocalDatafeeds() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2300
+2018-05-25 19:22:05,544 [1] ERROR  [(null)] - . Could not find file 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'. 
+2018-05-25 19:22:05,663 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2018-05-25 19:22:06,103 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2018-05-25 19:22:06,516 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2018-05-25 19:22:07,095 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2018-05-25 19:22:13,428 [1] ERROR  [(null)] - System.IO.FileNotFoundException: Could not find file 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'.
+File name: 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path, Encoding encoding)
+   at Databox.Libs.Jobboerse.ucExtSettings.RefreshBindings() in D:\projects\scraper\EDF\EDF Modules\Jobboerse\ucExtSettings.cs:line 43
+   at Databox.Libs.Jobboerse.ucExtSettings.set_Sett(ScraperSettings value) in D:\projects\scraper\EDF\EDF Modules\Jobboerse\ucExtSettings.cs:line 35
+   at WheelsScraper.Jobboerse.get_SettingsTab() in D:\projects\scraper\EDF\EDF Modules\Jobboerse\Jobboerse.cs:line 44
+   at WheelsScraper.EDFManager.GetSpecialSettingsControl() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\EDFManager.cs:line 567
+   at WheelsScraper.Form1.UpdateSpecialSettings() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 624
+   at WheelsScraper.Form1.OnSelectFeed() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 561
+   at WheelsScraper.Form1.SetCurrentFeed(ISimpleScraper scrap) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 3637
+   at WheelsScraper.Form1.Aci_Click(Object sender, EventArgs e) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 694
+   at DevExpress.XtraBars.Navigation.AccordionControlElementBase.RaiseClick()
+   at DevExpress.XtraBars.Navigation.AccordionControlElement.RaiseElementClick()
+   at DevExpress.XtraBars.Navigation.AccordionElementBaseViewInfo.ProcessMouseClick()
+   at DevExpress.XtraBars.Navigation.AccordionControlHandler.OnMouseUp(MouseEventArgs e)
+   at DevExpress.XtraBars.Navigation.AccordionControl.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at DevExpress.Utils.Controls.ControlBase.WndProc(Message& m)
+   at DevExpress.XtraBars.Navigation.AccordionControl.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-05-25 19:22:13,430 [1] ERROR  [(null)] - . Could not find file 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'. 
+2018-05-25 19:22:18,218 [1] INFO   [(null)] - Jobboerse. Cancel 
+2018-05-25 19:22:18,257 [1] INFO   [(null)] - UniversalMapper. Cancel 

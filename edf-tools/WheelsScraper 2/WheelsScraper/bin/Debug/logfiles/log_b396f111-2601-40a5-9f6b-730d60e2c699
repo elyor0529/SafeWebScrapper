@@ -1,0 +1,4 @@
+2018-05-25 19:02:47,872 [5] INFO   [(null)] - Checking for updates
+2018-05-25 19:02:49,207 [5] INFO   [(null)] - File Databox.Libs.UniversalMapper.dll should be updated. Version on server: 1.0.0.0
+2018-05-25 19:02:49,825 [5] INFO   [(null)] - Received file Databox.Libs.UniversalMapper.dll. Size: 16384
+2018-05-25 19:02:49,847 [5] INFO   [(null)] - Update complete. Release = 77

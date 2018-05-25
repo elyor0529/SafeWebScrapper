@@ -1,0 +1,4 @@
+2018-05-25 18:49:20,741 [5] INFO   [(null)] - Checking for updates
+2018-05-25 18:49:23,909 [5] INFO   [(null)] - Update complete. Release = 77
+2018-05-25 18:49:29,172 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2018-05-25 18:49:29,367 [1] ERROR  [(null)] - . File D:\projects\scraper\EDF\EDF Modules\Zieglers\docs\Zieglers.dll not found 

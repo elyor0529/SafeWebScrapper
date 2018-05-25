@@ -1,0 +1,7 @@
+D:\projects\scraper\EDF\EDF dev\bin\Debug\EDF dev.exe
+D:\projects\scraper\EDF\EDF dev\bin\Debug\EDF dev.pdb
+D:\projects\scraper\EDF\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+D:\projects\scraper\EDF\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.cache
+D:\projects\scraper\EDF\EDF dev\obj\Debug\EDF dev.csproj.CoreCompileInputs.cache
+D:\projects\scraper\EDF\EDF dev\obj\Debug\EDF dev.exe
+D:\projects\scraper\EDF\EDF dev\obj\Debug\EDF dev.pdb

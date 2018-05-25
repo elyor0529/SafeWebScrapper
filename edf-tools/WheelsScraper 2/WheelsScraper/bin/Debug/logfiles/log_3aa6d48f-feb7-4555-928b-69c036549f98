@@ -1,0 +1,663 @@
+2018-05-25 17:52:14,466 [5] INFO   [(null)] - Checking for updates
+2018-05-25 17:52:15,685 [5] INFO   [(null)] - Update complete. Release = 77
+2018-05-25 17:52:24,333 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2018-05-25 17:52:24,821 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2018-05-25 17:52:25,249 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2018-05-25 17:52:25,870 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2018-05-25 17:52:27,369 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2018-05-25 17:52:27,468 [1] INFO   [(null)] - Checking forced version for Zieglers
+2018-05-25 17:52:27,936 [1] INFO   [(null)] - . Data feed Zieglers loaded 
+2018-05-25 17:52:30,775 [1] INFO   [(null)] - . Starting UniversalMapper 
+2018-05-25 17:52:30,822 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2018-05-25 17:52:31,247 [1] INFO   [(null)] - You are using latest version of UniversalMapper
+2018-05-25 17:52:35,724 [11] ERROR  [(null)] - UniversalMapper. Authorization header is invalid -- one and only one ' ' (space) required 
+2018-05-25 17:52:35,894 [11] INFO   [(null)] - UniversalMapper. Complete 
+2018-05-25 17:53:38,708 [1] INFO   [(null)] - . Starting Zieglers 
+2018-05-25 17:53:38,751 [1] INFO   [(null)] - Checking forced version for Zieglers
+2018-05-25 17:53:42,232 [5] INFO   [(null)] - Zieglers. Starting new loop 
+2018-05-25 17:53:42,253 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:43,761 [11] INFO   [(null)] - Zieglers. Category list processed 
+2018-05-25 17:53:44,074 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:44,913 [6] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 17:53:44,916 [6] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 17:53:44,916 [6] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 17:53:44,917 [6] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 17:53:44,917 [6] INFO   [(null)] - Zieglers. Sub-category list processed 
+2018-05-25 17:53:44,956 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:45,493 [9] INFO   [(null)] - Zieglers. Product pager processed 
+2018-05-25 17:53:45,512 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:46,185 [11] ERROR  [(null)] - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 17:53:46,185 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:46,992 [9] INFO   [(null)] - Zieglers. Product pager processed 
+2018-05-25 17:53:47,027 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:47,729 [11] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:53:47,745 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:48,553 [9] INFO   [(null)] - Zieglers. Product 'My First Holy Communion | Sophie Piper | 9781557256966' details processed 
+2018-05-25 17:53:48,571 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:49,411 [6] INFO   [(null)] - Zieglers. Product 'The Bread of Life | Brother Francis | Coloring Book' details processed 
+2018-05-25 17:53:49,429 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:50,108 [11] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Cathedral Edition | Girl | Gold Accents | 9781929198603' details processed 
+2018-05-25 17:53:50,127 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:50,822 [6] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | Hoagland | 9780882712192' details processed 
+2018-05-25 17:53:50,841 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:51,527 [9] INFO   [(null)] - Zieglers. Product 'The New Saint Joseph First Communion Catechism (2012) | Kelly | 9780899422404' details processed 
+2018-05-25 17:53:51,552 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:52,243 [11] INFO   [(null)] - Zieglers. Product 'Jesus Speaks to Me On My First Holy Communion | Burrin | 9781593251499' details processed 
+2018-05-25 17:53:52,267 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:53,022 [9] INFO   [(null)] - Zieglers. Product 'Night Before My First Communion | Book | Wing  32 Pages| 9781524786199' details processed 
+2018-05-25 17:53:53,039 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:53,753 [6] INFO   [(null)] - Zieglers. Product 'Metal Bookmark | First Communion | Ribbon Accent | DIBKM7084B' details processed 
+2018-05-25 17:53:53,779 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:54,501 [6] INFO   [(null)] - Zieglers. Product 'Metal Bookmark  | First Communion | Ribbon Accent |  DIBKM7092B' details processed 
+2018-05-25 17:53:54,525 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:55,223 [11] INFO   [(null)] - Zieglers. Product 'First Communion Mass Book | Missal & Prayer Book | Hardcover | 9781936837526' details processed 
+2018-05-25 17:53:55,266 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:55,983 [6] INFO   [(null)] - Zieglers. Product 'First Communion | Bible | St. Joseph Edition | For Girl | 9780899429564' details processed 
+2018-05-25 17:53:56,005 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:56,721 [9] INFO   [(null)] - Zieglers. Product 'First Communion | Bible | St. Joseph Edition | for Boy | 9780899429557' details processed 
+2018-05-25 17:53:56,747 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:57,492 [6] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | Maroon | 9780882710143' details processed 
+2018-05-25 17:53:57,513 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:58,245 [11] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882710150' details processed 
+2018-05-25 17:53:58,269 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:58,999 [6] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712208' details processed 
+2018-05-25 17:53:59,026 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:53:59,774 [9] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712250' details processed 
+2018-05-25 17:53:59,796 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:00,356 [11] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712277' details processed 
+2018-05-25 17:54:00,384 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:01,139 [9] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712536' details processed 
+2018-05-25 17:54:01,165 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:02,058 [11] INFO   [(null)] - Zieglers. Product 'A Keepsake Of Your First Holy Communion | Gift Set | Boy | RI11400COB' details processed 
+2018-05-25 17:54:02,095 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:02,964 [6] INFO   [(null)] - Zieglers. Product 'A Keepsake Of Your First Holy Communion | Gift Set | Girl | RI11400COG' details processed 
+2018-05-25 17:54:02,992 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:03,526 [11] INFO   [(null)] - Zieglers. Product 'Bible Stories For Catholic Children | 9781936837359' details processed 
+2018-05-25 17:54:03,551 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:04,295 [9] INFO   [(null)] - Zieglers. Product 'Bible Stories For Catholic Children | WJ Hirten' details processed 
+2018-05-25 17:54:04,324 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:05,091 [11] INFO   [(null)] - Zieglers. Product 'Biblia De Mi Primera Comunion | Spanish | Groeschel | 9781618901231' details processed 
+2018-05-25 17:54:05,129 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:05,864 [9] INFO   [(null)] - Zieglers. Product 'Biblia De Mi Primera Comunion | Spanish | Groeschel | 9781618901248' details processed 
+2018-05-25 17:54:05,902 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:06,725 [6] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:54:06,753 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:07,465 [11] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | Black Leather | Gold Accents | 1929198116' details processed 
+2018-05-25 17:54:07,504 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:08,327 [6] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | Gold Accented Embossed Cover | Black | 1936837120' details processed 
+2018-05-25 17:54:08,361 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:09,182 [11] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | Gold Embossed | White | 1936837137' details processed 
+2018-05-25 17:54:09,228 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:09,941 [9] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | White Leather | Gold Accents | 1929198108' details processed 
+2018-05-25 17:54:09,966 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:11,020 [6] INFO   [(null)] - Zieglers. Product 'Brother Francis | First Communion Gift Set | 8 Pieces | Books DVDs & Cards' details processed 
+2018-05-25 17:54:11,040 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:11,712 [11] INFO   [(null)] - Zieglers. Product 'Child of God | Missal & Prayer Book | Christ & Little Boy | White | 9781929198658' details processed 
+2018-05-25 17:54:11,749 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:12,581 [9] INFO   [(null)] - Zieglers. Product 'Child of God | Missal & Prayer Book | Christ & Little Girl | White | 1929198641' details processed 
+2018-05-25 17:54:12,633 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:13,307 [9] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Cathedral Edition | Boy | Gold Accents | 9781929198610' details processed 
+2018-05-25 17:54:13,327 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:14,114 [6] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Gold Embossed | Black | 9781929198726' details processed 
+2018-05-25 17:54:14,140 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:14,867 [11] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Gold Embossed | White | 9781929198726' details processed 
+2018-05-25 17:54:14,896 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:15,442 [6] INFO   [(null)] - Zieglers. Product 'Children's Missal | St Joseph | Blessed Sacrament | Black | 9780899428062 | HC' details processed 
+2018-05-25 17:54:15,473 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:16,298 [11] INFO   [(null)] - Zieglers. Product 'Children's Missal | St Joseph | Blessed Sacrament | White | 9780899428055 | HC' details processed 
+2018-05-25 17:54:16,320 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:16,867 [9] INFO   [(null)] - Zieglers. Product 'Confession and Communion Coloring Book | Catholic Book Publishing | 9780899426952' details processed 
+2018-05-25 17:54:16,888 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:17,647 [11] INFO   [(null)] - Zieglers. Product 'First Communion |Blessed Trinity Missal | For Boy Style HI2622' details processed 
+2018-05-25 17:54:17,673 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:18,427 [9] INFO   [(null)] - Zieglers. Product 'First Holy Communion | Blessed Trinity Missal | Pearlized Cover | HI2669' details processed 
+2018-05-25 17:54:18,466 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:19,241 [6] INFO   [(null)] - Zieglers. Product 'First Mass Book | Missal | Blessed Sacrament | Black | 9780899428086' details processed 
+2018-05-25 17:54:19,261 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:20,058 [9] INFO   [(null)] - Zieglers. Product 'First Mass Book | Missal | Blessed Sacrament | White' details processed 
+2018-05-25 17:54:20,092 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:20,883 [11] INFO   [(null)] - Zieglers. Product 'Friendship With Jesus | Pope Benedict XVI | Wellborn | 9781586176198' details processed 
+2018-05-25 17:54:20,910 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:21,808 [9] INFO   [(null)] - Zieglers. Product 'Going to Confession | Lovasik | 9780899423920' details processed 
+2018-05-25 17:54:21,858 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:22,645 [11] INFO   [(null)] - Zieglers. Product 'Handshake from Heaven | Bannon | 9781592981533' details processed 
+2018-05-25 17:54:22,671 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:23,471 [9] INFO   [(null)] - Zieglers. Product 'Holy Bible | First Communion Bible | Navy | 9780529701565' details processed 
+2018-05-25 17:54:23,503 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:24,259 [9] INFO   [(null)] - Zieglers. Product 'Holy Bible | First Communion Bible | White | 9780529107381' details processed 
+2018-05-25 17:54:24,283 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:25,067 [11] INFO   [(null)] - Zieglers. Product 'Illustrated Book Of Jesus | Sullivan | 978-936837069' details processed 
+2018-05-25 17:54:25,096 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:25,770 [6] INFO   [(null)] - Zieglers. Product 'Magnetic Bookmark | First Holy Communion | Jesus & Girl | 3"' details processed 
+2018-05-25 17:54:25,802 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:26,324 [11] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:54:26,355 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:27,039 [6] INFO   [(null)] - Zieglers. Product 'Metal Bookmark | First Communion | Ribbon Accent | DIBKM2174' details processed 
+2018-05-25 17:54:27,075 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:27,806 [12] INFO   [(null)] - Zieglers. Product 'Mi Primera Comunion | Misal | Spanish | Girl | With Crucifix' details processed 
+2018-05-25 17:54:27,851 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:28,580 [11] INFO   [(null)] - Zieglers. Product 'Misal de Primera Comunion para Nino' details processed 
+2018-05-25 17:54:28,606 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:29,657 [9] INFO   [(null)] - Zieglers. Product 'Missal & Prayer Book | Christ & Girl | White | Hardback Book' details processed 
+2018-05-25 17:54:29,690 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:30,413 [6] INFO   [(null)] - Zieglers. Product 'My First Communion Bible | Ivory | 9781618900043' details processed 
+2018-05-25 17:54:30,466 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:31,220 [12] INFO   [(null)] - Zieglers. Product 'My First Communion Bible | Maroon | 9781618900036' details processed 
+2018-05-25 17:54:31,246 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:32,143 [9] INFO   [(null)] - Zieglers. Product 'My First Communion | Book | Precious Moments | Hardcover | Illustrated Keepsake Book | 9781492656739' details processed 
+2018-05-25 17:54:32,188 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:32,995 [6] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Black With Gold Embossing | 0937739642' details processed 
+2018-05-25 17:54:33,024 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:33,793 [9] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Black With Gold Embossing|093773553' details processed 
+2018-05-25 17:54:33,835 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:34,723 [6] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Boy | Gold Accents | White| 937739634' details processed 
+2018-05-25 17:54:34,758 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:35,564 [9] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Cream With Gold Embossing | 093773957' details processed 
+2018-05-25 17:54:35,613 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:36,378 [11] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Girl | Gold Accents | White | 0937739561' details processed 
+2018-05-25 17:54:36,429 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:37,199 [6] INFO   [(null)] - Zieglers. Product 'My First Holy Communion | Missal | Precious Moments | Boy | 0937739626' details processed 
+2018-05-25 17:54:37,224 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:37,936 [12] INFO   [(null)] - Zieglers. Product 'My First Holy Communion | Missal | Precious Moments | Girl' details processed 
+2018-05-25 17:54:37,982 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:38,685 [6] INFO   [(null)] - Zieglers. Product 'My First Mass Book | Missal & Prayer Book | Blessed Sacrament | Blue | 9780899428591' details processed 
+2018-05-25 17:54:38,716 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:39,371 [11] INFO   [(null)] - Zieglers. Product 'My First Mass Book | Missal & Prayer Book | Blessed Sacrament | White | 9780899428598' details processed 
+2018-05-25 17:54:39,391 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:39,993 [9] INFO   [(null)] - Zieglers. Product 'My Little Prayer Book | Communion | 1-1/2" x 2-1/4"' details processed 
+2018-05-25 17:54:40,021 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:40,723 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Dear Jesus | Boy' details processed 
+2018-05-25 17:54:40,742 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:41,482 [11] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Dear Jesus | Girl' details processed 
+2018-05-25 17:54:41,501 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:42,002 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | God Bless You' details processed 
+2018-05-25 17:54:42,021 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:42,665 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Laminated | GE300T001' details processed 
+2018-05-25 17:54:42,700 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:43,400 [11] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Laminated | GE300T002' details processed 
+2018-05-25 17:54:43,427 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:44,076 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Laminated | HIB6695' details processed 
+2018-05-25 17:54:44,101 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:44,877 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Oracion de Communion | Spanish | Boy' details processed 
+2018-05-25 17:54:44,907 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:45,661 [11] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:54:45,689 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:46,390 [12] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Oracion de Communion | Spanish | Girl' details processed 
+2018-05-25 17:54:46,416 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:47,132 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Scripture | DIBKM1846' details processed 
+2018-05-25 17:54:47,151 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:47,808 [6] INFO   [(null)] - Zieglers. Product 'Pewter Bookmark | First Communion | Boy | CTBM129' details processed 
+2018-05-25 17:54:47,829 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:48,510 [12] INFO   [(null)] - Zieglers. Product 'Pewter Bookmark | First Communion | Engraved |CTBM101' details processed 
+2018-05-25 17:54:48,543 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:49,259 [11] INFO   [(null)] - Zieglers. Product 'Pewter Bookmark | First Communion | Girl | CTBM128' details processed 
+2018-05-25 17:54:49,278 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:49,975 [6] INFO   [(null)] - Zieglers. Product 'Pocket Catechism | Essential Catholic Teachings | Lodders' details processed 
+2018-05-25 17:54:50,018 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:50,708 [11] INFO   [(null)] - Zieglers. Product 'Primer Libro De La Misa | Missal & Prayer Book | Spanish | Blue | 9780899428253' details processed 
+2018-05-25 17:54:50,743 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:51,450 [12] INFO   [(null)] - Zieglers. Product 'Primer Libro De La Misa | Missal & Prayer Book | Spanish | White | 9780899428239' details processed 
+2018-05-25 17:54:51,487 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:52,180 [11] INFO   [(null)] - Zieglers. Product 'Receiving Holy Communion | Lovasik | 9780899422213' details processed 
+2018-05-25 17:54:52,221 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:53,295 [6] INFO   [(null)] - Zieglers. Product 'Receiving Holy Communion | Lovasik | 9780899424910' details processed 
+2018-05-25 17:54:53,325 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:54,037 [12] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal |  Padded Cover | Pearlized White | 9780882710839' details processed 
+2018-05-25 17:54:54,058 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:54,800 [11] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal |  Pearlized Black | 9780882710846' details processed 
+2018-05-25 17:54:54,832 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:55,605 [6] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal | Padded Hardcover Book | Boy' details processed 
+2018-05-25 17:54:55,640 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:56,381 [12] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal | Padded Hardcover Book | Girl |  9780882711850' details processed 
+2018-05-25 17:54:56,403 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:57,075 [6] INFO   [(null)] - Zieglers. Product 'Requerdo De La Primera Comunion | Spanish | First Communion Keepsake  | Italy' details processed 
+2018-05-25 17:54:57,101 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:57,791 [12] INFO   [(null)] - Zieglers. Product 'Ribbon Bookmark | First Communion | Chalice Charm | CTRBM167' details processed 
+2018-05-25 17:54:57,810 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:58,329 [6] INFO   [(null)] - Zieglers. Product 'Ribbon Bookmark | First Communion | Pewter Charms | CTRBM113' details processed 
+2018-05-25 17:54:58,369 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:59,065 [11] INFO   [(null)] - Zieglers. Product 'St. Joseph's | New American Catechism | Level 0 | 0899422500' details processed 
+2018-05-25 17:54:59,090 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:54:59,620 [6] INFO   [(null)] - Zieglers. Product 'The Mass For Catholic Children | Book' details processed 
+2018-05-25 17:54:59,641 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:00,628 [11] INFO   [(null)] - Zieglers. Product 'The Mass | WJ Hirten | Illustrated' details processed 
+2018-05-25 17:55:00,650 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:01,206 [12] INFO   [(null)] - Zieglers. Product 'Today I Made My First Communion | Ahern | 9780967943763' details processed 
+2018-05-25 17:55:01,243 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:02,081 [11] INFO   [(null)] - Zieglers. Product 'Your First Communion | Pope Francis | 9781586179861' details processed 
+2018-05-25 17:55:02,103 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:02,934 [6] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:55:02,986 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:03,680 [11] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | Black Leather | Gold Accents | 1929198116' details processed 
+2018-05-25 17:55:03,712 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:04,471 [12] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | Gold Accented Embossed Cover | Black | 1936837120' details processed 
+2018-05-25 17:55:04,505 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:05,230 [11] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | Gold Embossed | White | 1936837137' details processed 
+2018-05-25 17:55:05,254 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:05,768 [12] INFO   [(null)] - Zieglers. Product 'Blessed Trinity Missal | White Leather | Gold Accents | 1929198108' details processed 
+2018-05-25 17:55:05,789 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:06,673 [11] INFO   [(null)] - Zieglers. Product 'Brother Francis | First Communion Gift Set | 8 Pieces | Books DVDs & Cards' details processed 
+2018-05-25 17:55:07,012 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:07,802 [6] INFO   [(null)] - Zieglers. Product 'Child of God | Missal & Prayer Book | Christ & Little Boy | White | 9781929198658' details processed 
+2018-05-25 17:55:07,823 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:08,620 [11] INFO   [(null)] - Zieglers. Product 'Child of God | Missal & Prayer Book | Christ & Little Girl | White | 1929198641' details processed 
+2018-05-25 17:55:08,645 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:09,418 [12] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Cathedral Edition | Boy | Gold Accents | 9781929198610' details processed 
+2018-05-25 17:55:09,446 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:10,173 [11] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Gold Embossed | Black | 9781929198726' details processed 
+2018-05-25 17:55:10,199 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:10,916 [12] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Gold Embossed | White | 9781929198726' details processed 
+2018-05-25 17:55:10,972 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:11,684 [14] INFO   [(null)] - Zieglers. Product 'Children's Missal | St Joseph | Blessed Sacrament | Black | 9780899428062 | HC' details processed 
+2018-05-25 17:55:11,704 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:12,532 [11] INFO   [(null)] - Zieglers. Product 'Children's Missal | St Joseph | Blessed Sacrament | White | 9780899428055 | HC' details processed 
+2018-05-25 17:55:12,566 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:13,267 [12] INFO   [(null)] - Zieglers. Product 'Confession and Communion Coloring Book | Catholic Book Publishing | 9780899426952' details processed 
+2018-05-25 17:55:13,303 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:14,014 [11] INFO   [(null)] - Zieglers. Product 'First Communion |Blessed Trinity Missal | For Boy Style HI2622' details processed 
+2018-05-25 17:55:14,035 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:14,732 [6] INFO   [(null)] - Zieglers. Product 'First Holy Communion | Blessed Trinity Missal | Pearlized Cover | HI2669' details processed 
+2018-05-25 17:55:14,752 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:15,493 [14] INFO   [(null)] - Zieglers. Product 'First Mass Book | Missal | Blessed Sacrament | Black | 9780899428086' details processed 
+2018-05-25 17:55:15,513 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:16,312 [6] INFO   [(null)] - Zieglers. Product 'First Mass Book | Missal | Blessed Sacrament | White' details processed 
+2018-05-25 17:55:16,341 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:17,024 [14] INFO   [(null)] - Zieglers. Product 'Friendship With Jesus | Pope Benedict XVI | Wellborn | 9781586176198' details processed 
+2018-05-25 17:55:17,053 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:17,813 [6] INFO   [(null)] - Zieglers. Product 'Going to Confession | Lovasik | 9780899423920' details processed 
+2018-05-25 17:55:17,841 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:18,589 [12] INFO   [(null)] - Zieglers. Product 'Handshake from Heaven | Bannon | 9781592981533' details processed 
+2018-05-25 17:55:18,638 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:19,374 [11] INFO   [(null)] - Zieglers. Product 'Holy Bible | First Communion Bible | Navy | 9780529701565' details processed 
+2018-05-25 17:55:19,408 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:20,151 [6] INFO   [(null)] - Zieglers. Product 'Holy Bible | First Communion Bible | White | 9780529107381' details processed 
+2018-05-25 17:55:20,197 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:20,912 [12] INFO   [(null)] - Zieglers. Product 'Illustrated Book Of Jesus | Sullivan | 978-936837069' details processed 
+2018-05-25 17:55:20,941 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:21,447 [11] INFO   [(null)] - Zieglers. Product 'Magnetic Bookmark | First Holy Communion | Jesus & Girl | 3"' details processed 
+2018-05-25 17:55:21,515 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:22,267 [12] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:55:22,310 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:23,011 [14] INFO   [(null)] - Zieglers. Product 'Metal Bookmark | First Communion | Ribbon Accent | DIBKM2174' details processed 
+2018-05-25 17:55:23,029 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:23,728 [11] INFO   [(null)] - Zieglers. Product 'Mi Primera Comunion | Misal | Spanish | Girl | With Crucifix' details processed 
+2018-05-25 17:55:23,752 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:24,490 [12] INFO   [(null)] - Zieglers. Product 'Misal de Primera Comunion para Nino' details processed 
+2018-05-25 17:55:24,527 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:25,274 [11] INFO   [(null)] - Zieglers. Product 'Missal & Prayer Book | Christ & Girl | White | Hardback Book' details processed 
+2018-05-25 17:55:25,305 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:25,990 [6] INFO   [(null)] - Zieglers. Product 'My First Communion Bible | Ivory | 9781618900043' details processed 
+2018-05-25 17:55:26,017 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:26,712 [12] INFO   [(null)] - Zieglers. Product 'My First Communion Bible | Maroon | 9781618900036' details processed 
+2018-05-25 17:55:26,741 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:27,444 [6] INFO   [(null)] - Zieglers. Product 'My First Communion | Book | Precious Moments | Hardcover | Illustrated Keepsake Book | 9781492656739' details processed 
+2018-05-25 17:55:27,476 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:28,009 [12] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Black With Gold Embossing | 0937739642' details processed 
+2018-05-25 17:55:28,057 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:28,750 [6] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Black With Gold Embossing|093773553' details processed 
+2018-05-25 17:55:28,792 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:29,378 [14] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Boy | Gold Accents | White| 937739634' details processed 
+2018-05-25 17:55:29,418 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:30,217 [6] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Cream With Gold Embossing | 093773957' details processed 
+2018-05-25 17:55:30,249 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:31,017 [12] INFO   [(null)] - Zieglers. Product 'My First Communion | Missal & Prayer Book | Girl | Gold Accents | White | 0937739561' details processed 
+2018-05-25 17:55:31,342 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:32,092 [12] INFO   [(null)] - Zieglers. Product 'My First Holy Communion | Missal | Precious Moments | Boy | 0937739626' details processed 
+2018-05-25 17:55:32,423 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:33,168 [12] INFO   [(null)] - Zieglers. Product 'My First Holy Communion | Missal | Precious Moments | Girl' details processed 
+2018-05-25 17:55:33,202 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:34,142 [11] INFO   [(null)] - Zieglers. Product 'My First Mass Book | Missal & Prayer Book | Blessed Sacrament | Blue | 9780899428591' details processed 
+2018-05-25 17:55:34,164 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:34,873 [14] INFO   [(null)] - Zieglers. Product 'My First Mass Book | Missal & Prayer Book | Blessed Sacrament | White | 9780899428598' details processed 
+2018-05-25 17:55:34,897 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:35,616 [12] INFO   [(null)] - Zieglers. Product 'My Little Prayer Book | Communion | 1-1/2" x 2-1/4"' details processed 
+2018-05-25 17:55:35,643 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:36,346 [14] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Dear Jesus | Boy' details processed 
+2018-05-25 17:55:36,389 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:37,150 [12] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Dear Jesus | Girl' details processed 
+2018-05-25 17:55:37,178 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:37,864 [11] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | God Bless You' details processed 
+2018-05-25 17:55:37,901 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:38,624 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Laminated | GE300T001' details processed 
+2018-05-25 17:55:38,661 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:39,367 [12] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Laminated | GE300T002' details processed 
+2018-05-25 17:55:39,692 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:40,459 [11] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Laminated | HIB6695' details processed 
+2018-05-25 17:55:40,493 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:41,219 [12] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Oracion de Communion | Spanish | Boy' details processed 
+2018-05-25 17:55:41,238 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:42,003 [6] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 17:55:42,039 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:42,794 [6] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Oracion de Communion | Spanish | Girl' details processed 
+2018-05-25 17:55:42,820 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:43,530 [12] INFO   [(null)] - Zieglers. Product 'Paper Bookmark | First Communion | Scripture | DIBKM1846' details processed 
+2018-05-25 17:55:43,569 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:44,238 [6] INFO   [(null)] - Zieglers. Product 'Pewter Bookmark | First Communion | Boy | CTBM129' details processed 
+2018-05-25 17:55:44,356 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:45,083 [11] INFO   [(null)] - Zieglers. Product 'Pewter Bookmark | First Communion | Engraved |CTBM101' details processed 
+2018-05-25 17:55:45,124 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:45,783 [6] INFO   [(null)] - Zieglers. Product 'Pewter Bookmark | First Communion | Girl | CTBM128' details processed 
+2018-05-25 17:55:45,807 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:46,492 [11] INFO   [(null)] - Zieglers. Product 'Pocket Catechism | Essential Catholic Teachings | Lodders' details processed 
+2018-05-25 17:55:46,517 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:47,183 [12] INFO   [(null)] - Zieglers. Product 'Primer Libro De La Misa | Missal & Prayer Book | Spanish | Blue | 9780899428253' details processed 
+2018-05-25 17:55:47,202 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:47,894 [6] INFO   [(null)] - Zieglers. Product 'Primer Libro De La Misa | Missal & Prayer Book | Spanish | White | 9780899428239' details processed 
+2018-05-25 17:55:47,912 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:48,579 [12] INFO   [(null)] - Zieglers. Product 'Receiving Holy Communion | Lovasik | 9780899422213' details processed 
+2018-05-25 17:55:48,604 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:49,335 [11] INFO   [(null)] - Zieglers. Product 'Receiving Holy Communion | Lovasik | 9780899424910' details processed 
+2018-05-25 17:55:49,367 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:50,038 [6] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal |  Padded Cover | Pearlized White | 9780882710839' details processed 
+2018-05-25 17:55:50,058 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:50,787 [12] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal |  Pearlized Black | 9780882710846' details processed 
+2018-05-25 17:55:50,808 [5] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 17:55:51,014 [1] INFO   [(null)] - Zieglers. Cancel 
+2018-05-25 17:55:51,520 [11] INFO   [(null)] - Zieglers. Product 'Remembrance of My First Holy Communion | Missal | Padded Hardcover Book | Boy' details processed 
+2018-05-25 17:55:51,549 [10] INFO   [(null)] - Zieglers. Complete 
+2018-05-25 17:56:19,812 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Sequence contains no elements (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Max(IEnumerable`1 source)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 468
+   at AuthService.GetFeed(AuthHeader auth, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\AuthService.cs:line 264
+   at SyncInvokeGetFeed(Object , Object[] , Object[] )
+   at System.ServiceModel.Dispatcher.SyncMethodInvoker.Invoke(Object instance, Object[] inputs, Object[]& outputs)
+   at System.ServiceModel.Dispatcher.DispatchOperationRuntime.InvokeBegin(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.ImmutableDispatchRuntime.ProcessMessage5(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.ImmutableDispatchRuntime.ProcessMessage31(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.MessageRpc.Process(Boolean isOperationContextSet)).
+2018-05-25 17:56:19,833 [1] ERROR  [(null)] - . Sequence contains no elements 
+2018-05-25 17:56:25,920 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\ca6aa0d3-d987-4f9d-8431-abd454e3454c.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\ca6aa0d3-d987-4f9d-8431-abd454e3454c.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:56:25,921 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\ca6aa0d3-d987-4f9d-8431-abd454e3454c.edf'. 
+2018-05-25 17:56:30,659 [1] INFO   [(null)] - Checking forced version for Comparison301
+2018-05-25 17:56:31,419 [1] INFO   [(null)] - . Data feed Comparison301 loaded 
+2018-05-25 17:57:01,587 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\67aed7bd-715e-4b10-89f9-867697a1e755.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\67aed7bd-715e-4b10-89f9-867697a1e755.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:57:01,588 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\67aed7bd-715e-4b10-89f9-867697a1e755.edf'. 
+2018-05-25 17:57:06,025 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\08c302be-b252-4a69-a85c-bbe8d767007d.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\08c302be-b252-4a69-a85c-bbe8d767007d.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:57:06,025 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\08c302be-b252-4a69-a85c-bbe8d767007d.edf'. 
+2018-05-25 17:57:13,273 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\ca6aa0d3-d987-4f9d-8431-abd454e3454c.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\ca6aa0d3-d987-4f9d-8431-abd454e3454c.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:57:13,273 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\ca6aa0d3-d987-4f9d-8431-abd454e3454c.edf'. 
+2018-05-25 17:57:22,084 [1] INFO   [(null)] - Checking forced version for Amazon
+2018-05-25 17:57:22,857 [1] INFO   [(null)] - . Data feed Amazon loaded 
+2018-05-25 17:57:51,111 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:57:51,111 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. 
+2018-05-25 17:58:13,791 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:58:13,792 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. 
+2018-05-25 17:58:15,183 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:58:15,183 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. 
+2018-05-25 17:58:34,412 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:58:34,412 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. 
+2018-05-25 17:58:56,268 [1] INFO   [(null)] - Checking forced version for Terapeak
+2018-05-25 17:58:57,257 [1] INFO   [(null)] - . Data feed Terapeak loaded 
+2018-05-25 17:59:18,118 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6f8b2e0c-c0fc-4362-b68a-375dbc7762ce.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6f8b2e0c-c0fc-4362-b68a-375dbc7762ce.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:59:18,118 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6f8b2e0c-c0fc-4362-b68a-375dbc7762ce.edf'. 
+2018-05-25 17:59:19,100 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\60b6d2d9-6ff3-4220-a092-3756f0c76ae8.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\60b6d2d9-6ff3-4220-a092-3756f0c76ae8.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:59:19,101 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\60b6d2d9-6ff3-4220-a092-3756f0c76ae8.edf'. 
+2018-05-25 17:59:20,387 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\09ed8ebe-1ca2-4397-ad8b-4e2ba66213c0.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\09ed8ebe-1ca2-4397-ad8b-4e2ba66213c0.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:59:20,387 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\09ed8ebe-1ca2-4397-ad8b-4e2ba66213c0.edf'. 
+2018-05-25 17:59:20,963 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6967bf56-e86f-495d-bbb6-21d74f4fbb3f.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6967bf56-e86f-495d-bbb6-21d74f4fbb3f.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:59:20,964 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6967bf56-e86f-495d-bbb6-21d74f4fbb3f.edf'. 
+2018-05-25 17:59:40,769 [1] INFO   [(null)] - Checking forced version for OeConnectionInventory
+2018-05-25 17:59:41,552 [1] INFO   [(null)] - . Data feed OeConnectionInventory loaded 
+2018-05-25 17:59:54,874 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\249c0c1e-9ebe-4b5e-83dc-c59484068467.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\249c0c1e-9ebe-4b5e-83dc-c59484068467.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 17:59:54,874 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\249c0c1e-9ebe-4b5e-83dc-c59484068467.edf'. 
+2018-05-25 18:00:03,069 [1] INFO   [(null)] - Checking forced version for dealerconnect
+2018-05-25 18:00:04,096 [1] INFO   [(null)] - . Data feed dealerconnect loaded 
+2018-05-25 18:00:12,814 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\249c0c1e-9ebe-4b5e-83dc-c59484068467.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\249c0c1e-9ebe-4b5e-83dc-c59484068467.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 18:00:12,815 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\249c0c1e-9ebe-4b5e-83dc-c59484068467.edf'. 
+2018-05-25 18:00:36,809 [1] INFO   [(null)] - Checking forced version for uacparts
+2018-05-25 18:00:37,617 [1] INFO   [(null)] - . Data feed uacparts loaded 
+2018-05-25 18:00:50,560 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 18:00:50,560 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\6e2d4536-5a3c-416a-ba2a-37dbcf888ff5.edf'. 
+2018-05-25 18:01:31,300 [1] INFO   [(null)] - Checking forced version for EdfShipStation
+2018-05-25 18:01:32,318 [1] INFO   [(null)] - . Data feed EdfShipStation loaded 
+2018-05-25 18:01:42,342 [1] INFO   [(null)] - Checking forced version for ShipitClick
+2018-05-25 18:01:42,784 [1] INFO   [(null)] - You are using latest version of ShipitClick
+2018-05-25 18:01:43,140 [1] INFO   [(null)] - . Data feed ShipitClick loaded 
+2018-05-25 18:02:24,714 [1] INFO   [(null)] - Checking forced version for AmazonRepricer
+2018-05-25 18:02:24,908 [1] INFO   [(null)] - You are using latest version of AmazonRepricer
+2018-05-25 18:02:25,013 [1] DEBUG  [(null)] - Loading embeded dll System_Data_SqlServerCe
+2018-05-25 18:02:25,055 [1] DEBUG  [(null)] - Loading embeded dll EntityFramework
+2018-05-25 18:02:25,068 [1] DEBUG  [(null)] - Loading embeded dll MWSSubscriptions_2013_07_01_v2014_09_30
+2018-05-25 18:02:25,068 [1] DEBUG  [(null)] - Loading embeded dll MWSClientCsRuntime_1_0
+2018-05-25 18:02:25,069 [1] DEBUG  [(null)] - Loading embeded dll EntityFramework_SqlServerCompact
+2018-05-25 18:02:25,638 [1] INFO   [(null)] - . Data feed AmazonRepricer loaded 
+2018-05-25 18:02:25,866 [1] INFO   [(null)] - AmazonRepricer. Using empty database 
+2018-05-25 18:02:33,175 [1] ERROR  [(null)] - Amazon.SQS.AmazonSQSException: Access to the resource https://sqs.us-east-1.amazonaws.com/ is denied. ---> Amazon.Runtime.Internal.HttpErrorResponseException: The remote server returned an error: (403) Forbidden. ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at Amazon.Runtime.Internal.HttpRequest.GetResponse()
+   at Amazon.Runtime.Internal.HttpHandler`1.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.Unmarshaller.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.SQS.Internal.ValidationResponseHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+   --- End of inner exception stack trace ---
+   at Amazon.Runtime.Internal.HttpErrorResponseExceptionHandler.HandleException(IExecutionContext executionContext, HttpErrorResponseException exception)
+   at Amazon.Runtime.Internal.ExceptionHandler`1.Handle(IExecutionContext executionContext, Exception exception)
+   at Amazon.Runtime.Internal.ErrorHandler.ProcessException(IExecutionContext executionContext, Exception exception)
+   at Amazon.Runtime.Internal.ErrorHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.Signer.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.CredentialsRetriever.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.RetryHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.EndpointResolver.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.SQS.Internal.ProcessRequestHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.Marshaller.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.CallbackHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.ErrorCallbackHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.PipelineHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.MetricsHandler.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.Internal.RuntimePipeline.InvokeSync(IExecutionContext executionContext)
+   at Amazon.Runtime.AmazonServiceClient.Invoke[TRequest,TResponse](TRequest request, IMarshaller`2 marshaller, ResponseUnmarshaller unmarshaller)
+   at Amazon.SQS.AmazonSQSClient.CreateQueue(CreateQueueRequest request)
+   at Amazon.SQS.AmazonSQSClient.CreateQueue(String queueName)
+   at AmazonRepricer.SubscriptionManager.Subscribe()
+   at AmazonRepricer.SettingsPresenter.Subscribe()
+   at AmazonRepricer.ucExtSettings.btnSubscribe_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at DevExpress.XtraEditors.BaseButton.OnClick(EventArgs e)
+   at DevExpress.XtraEditors.BaseButton.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at DevExpress.Utils.Controls.ControlBase.WndProc(Message& m)
+   at DevExpress.XtraEditors.BaseControl.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-05-25 18:02:33,178 [1] ERROR  [(null)] - . Access to the resource https://sqs.us-east-1.amazonaws.com/ is denied. 
+2018-05-25 18:02:57,083 [1] INFO   [(null)] - Checking forced version for QBOnlineSCE
+2018-05-25 18:02:57,509 [1] INFO   [(null)] - You are using latest version of QBOnlineSCE
+2018-05-25 18:02:58,198 [1] INFO   [(null)] - . Data feed QBOnlineSCE loaded 
+2018-05-25 18:03:50,813 [1] ERROR  [(null)] - System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\e.latipov\AppData\Roaming\CData\QuickBooksOnline Data Provider\ErrorsLog.txt'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at WheelsScraper.QBOnlineSCE.LogError(String errorMes)
+   at Databox.Libs.QBOnlineSCE.ucExtSettings.ExecuteParamActionWithWaitForm[T,U](Action`1 a, U param, String msg)
+   at Databox.Libs.QBOnlineSCE.ucExtSettings.DefaultAccounts_QueryPopUp(Object sender, CancelEventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItemPopupBase.RaiseQueryPopUp(CancelEventArgs e)
+   at DevExpress.XtraEditors.PopupBaseEdit.ShowPopup()
+   at DevExpress.XtraEditors.PopupBaseEdit.ActionShowPopup(EditorButtonObjectInfoArgs buttonInfo)
+   at DevExpress.XtraEditors.PopupBaseEdit.OnDefaultPressButton(EditorButtonObjectInfoArgs buttonInfo)
+   at DevExpress.XtraEditors.PopupBaseEdit.OnPressButton(EditorButtonObjectInfoArgs buttonInfo)
+   at DevExpress.XtraEditors.ButtonEdit.OnMouseDown(MouseEventArgs e)
+   at DevExpress.XtraEditors.PopupBaseEdit.OnMouseDown(MouseEventArgs e)
+   at DevExpress.XtraEditors.ComboBoxEdit.OnMouseDown(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseDown(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at DevExpress.Utils.Controls.ControlBase.WndProc(Message& m)
+   at DevExpress.XtraEditors.TextEdit.WndProc(Message& msg)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-05-25 18:03:50,840 [1] ERROR  [(null)] - . Could not find a part of the path 'C:\Users\e.latipov\AppData\Roaming\CData\QuickBooksOnline Data Provider\ErrorsLog.txt'. 
+2018-05-25 18:04:16,135 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Sequence contains no elements (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Max(IEnumerable`1 source)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 468
+   at AuthService.GetFeed(AuthHeader auth, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\AuthService.cs:line 264
+   at SyncInvokeGetFeed(Object , Object[] , Object[] )
+   at System.ServiceModel.Dispatcher.SyncMethodInvoker.Invoke(Object instance, Object[] inputs, Object[]& outputs)
+   at System.ServiceModel.Dispatcher.DispatchOperationRuntime.InvokeBegin(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.ImmutableDispatchRuntime.ProcessMessage5(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.ImmutableDispatchRuntime.ProcessMessage31(MessageRpc& rpc)
+   at System.ServiceModel.Dispatcher.MessageRpc.Process(Boolean isOperationContextSet)).
+2018-05-25 18:04:16,136 [1] ERROR  [(null)] - . Sequence contains no elements 
+2018-05-25 18:04:25,257 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\d112ade9-931f-45b8-960f-aab3919fa326.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\d112ade9-931f-45b8-960f-aab3919fa326.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 18:04:25,257 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\d112ade9-931f-45b8-960f-aab3919fa326.edf'. 
+2018-05-25 18:04:28,603 [1] ERROR  [(null)] - System.ServiceModel.FaultException`1[System.ServiceModel.ExceptionDetail]: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\57f629cc-47d3-4e52-a08c-5a5a184c7987.edf'. (Fault Detail is equal to An ExceptionDetail, likely created by IncludeExceptionDetailInFaults=true, whose value is:
+System.IO.FileNotFoundException: Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\57f629cc-47d3-4e52-a08c-5a5a184c7987.edf'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at ModulesManager.GetFeedInstallInfo(String userName, Int32 feedId) in c:\inetpub\wwwroot\EDFServer\App_Code\ModulesManager.cs:line 477
+...).
+2018-05-25 18:04:28,603 [1] ERROR  [(null)] - . Could not find file 'C:\inetpub\wwwroot\EDFServer\App_Data\Runtime versions\57f629cc-47d3-4e52-a08c-5a5a184c7987.edf'. 
+2018-05-25 18:04:54,528 [1] INFO   [(null)] - UniversalMapper. Cancel 
+2018-05-25 18:04:54,567 [1] INFO   [(null)] - Zieglers. Cancel 
+2018-05-25 18:04:54,580 [1] INFO   [(null)] - Comparison301. Cancel 
+2018-05-25 18:04:54,593 [1] INFO   [(null)] - Amazon. Cancel 
+2018-05-25 18:04:54,606 [1] INFO   [(null)] - Terapeak. Cancel 
+2018-05-25 18:04:54,620 [1] INFO   [(null)] - OeConnectionInventory. Cancel 
+2018-05-25 18:04:54,631 [1] INFO   [(null)] - dealerconnect. Cancel 
+2018-05-25 18:04:54,642 [1] INFO   [(null)] - uacparts. Cancel 
+2018-05-25 18:04:54,654 [1] INFO   [(null)] - EdfShipStation. Cancel 
+2018-05-25 18:04:54,666 [1] INFO   [(null)] - ShipitClick. Cancel 
+2018-05-25 18:04:54,678 [1] INFO   [(null)] - AmazonRepricer. Cancel 
+2018-05-25 18:04:54,690 [1] INFO   [(null)] - QBOnlineSCE. Cancel 

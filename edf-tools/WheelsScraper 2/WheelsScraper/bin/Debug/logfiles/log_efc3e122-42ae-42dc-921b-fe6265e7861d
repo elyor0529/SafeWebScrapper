@@ -1,0 +1,49 @@
+2018-05-25 19:19:28,841 [5] INFO   [(null)] - Checking for updates
+2018-05-25 19:19:30,096 [5] INFO   [(null)] - Update complete. Release = 77
+2018-05-25 19:19:34,061 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2018-05-25 19:19:34,248 [1] INFO   [(null)] - Checking forced version for Jobboerse
+2018-05-25 19:19:35,040 [1] ERROR  [(null)] - System.IO.FileNotFoundException: Could not find file 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'.
+File name: 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path, Encoding encoding)
+   at Databox.Libs.Jobboerse.ucExtSettings.ucExtSettings_Load(Object sender, EventArgs e) in D:\projects\scraper\EDF\EDF Modules\Jobboerse\ucExtSettings.cs:line 47
+   at System.Windows.Forms.UserControl.OnLoad(EventArgs e)
+   at DevExpress.XtraEditors.XtraUserControl.OnLoad(EventArgs e)
+   at System.Windows.Forms.UserControl.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at DevExpress.XtraLayout.LayoutControlItem.UpdateControl()
+   at DevExpress.XtraLayout.Utils.UpdateControlsHelper.Update(LayoutControlItem item)
+   at DevExpress.XtraLayout.Utils.UpdateControlsHelper.Visit(BaseLayoutItem item)
+   at DevExpress.XtraLayout.BaseLayoutItem.Accept(BaseVisitor visitor)
+   at DevExpress.XtraLayout.LayoutGroup.Accept(BaseVisitor visitor)
+   at DevExpress.XtraLayout.TabbedGroup.Accept(BaseVisitor visitor)
+   at DevExpress.XtraLayout.LayoutGroup.Accept(BaseVisitor visitor)
+   at DevExpress.XtraLayout.LayoutControlImplementor.UpdateControls()
+   at DevExpress.XtraLayout.LayoutControlImplementor.InvalidateRootOffsetControlsAndScrolls()
+   at DevExpress.XtraLayout.LayoutControlImplementor.Invalidate()
+   at DevExpress.XtraLayout.LayoutControl.DevExpress.XtraLayout.ILayoutControl.Invalidate()
+   at DevExpress.XtraLayout.BaseLayoutItem.Invalidate()
+   at DevExpress.XtraLayout.BaseLayoutItem.ComplexUpdate(Boolean shouldUpdateViewInfo, Boolean shouldResize, Boolean shouldArrangeTextSize)
+   at DevExpress.XtraLayout.TabbedGroup.set_SelectedTabPage(LayoutGroup value)
+   at DevExpress.XtraLayout.TabbedGroup.set_SelectedTabPageIndex(Int32 value)
+   at WheelsScraper.Form1.ShowTabs(String tabsToShow) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2819
+   at WheelsScraper.Form1.ShowDataTab() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 998
+   at WheelsScraper.Form1.OnSelectFeed() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 562
+   at WheelsScraper.Form1.SetCurrentFeed(ISimpleScraper scrap) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 3637
+   at WheelsScraper.Form1.DoLoadProcessorConfig(String edfFileName, String libFileName, String edfUrl) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 853
+   at WheelsScraper.Form1.LoadLocalDatafeeds() in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\Form1.cs:line 2300
+2018-05-25 19:19:35,046 [1] ERROR  [(null)] - . Could not find file 'D:\projects\scraper\EDF\EDF dev\bin\Debug\cities.csv'. 
+2018-05-25 19:19:35,161 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2018-05-25 19:19:35,594 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2018-05-25 19:19:36,001 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2018-05-25 19:19:36,555 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2018-05-25 19:20:09,030 [1] INFO   [(null)] - Jobboerse. Cancel 
+2018-05-25 19:20:09,074 [1] INFO   [(null)] - UniversalMapper. Cancel 

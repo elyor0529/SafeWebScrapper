@@ -1,0 +1,86 @@
+2018-05-25 18:09:57,738 [5] INFO   [(null)] - Checking for updates
+2018-05-25 18:09:58,991 [5] INFO   [(null)] - Update complete. Release = 77
+2018-05-25 18:10:03,248 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2018-05-25 18:10:03,456 [1] INFO   [(null)] - Checking forced version for UniversalMapper
+2018-05-25 18:10:03,893 [1] INFO   [(null)] - . Server has new version for module UniversalMapper 
+2018-05-25 18:10:04,320 [1] INFO   [(null)] - Module UniversalMapper downloaded. Size 16896
+2018-05-25 18:10:05,663 [1] INFO   [(null)] - . Data feed UniversalMapper loaded 
+2018-05-25 18:10:05,761 [1] INFO   [(null)] - Checking forced version for Zieglers
+2018-05-25 18:10:06,482 [1] INFO   [(null)] - . Data feed Zieglers loaded 
+2018-05-25 18:10:12,080 [1] INFO   [(null)] - . Starting Zieglers 
+2018-05-25 18:10:12,106 [1] INFO   [(null)] - Checking forced version for Zieglers
+2018-05-25 18:10:15,493 [13] INFO   [(null)] - Zieglers. Starting new loop 
+2018-05-25 18:10:15,541 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:17,950 [6] INFO   [(null)] - Zieglers. Category list processed 
+2018-05-25 18:10:18,262 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:18,992 [9] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 18:10:18,993 [9] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 18:10:18,994 [9] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 18:10:18,994 [9] WARN   [(null)] - HtmlAgilityPack.HtmlNode
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 18:10:18,994 [9] INFO   [(null)] - Zieglers. Sub-category list processed 
+2018-05-25 18:10:19,028 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:19,532 [5] INFO   [(null)] - Zieglers. Product pager processed 
+2018-05-25 18:10:19,553 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:20,267 [6] ERROR  [(null)] - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+2018-05-25 18:10:20,267 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:21,009 [9] INFO   [(null)] - Zieglers. Product pager processed 
+2018-05-25 18:10:21,035 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:21,837 [11] INFO   [(null)] - Zieglers. Product list processed 
+2018-05-25 18:10:21,868 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:22,781 [6] INFO   [(null)] - Zieglers. Product 'My First Holy Communion | Sophie Piper | 9781557256966' details processed 
+2018-05-25 18:10:22,809 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:23,604 [9] INFO   [(null)] - Zieglers. Product 'The Bread of Life | Brother Francis | Coloring Book' details processed 
+2018-05-25 18:10:23,683 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:24,387 [11] INFO   [(null)] - Zieglers. Product 'Child of God | Missal | Cathedral Edition | Girl | Gold Accents | 9781929198603' details processed 
+2018-05-25 18:10:24,415 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:25,119 [9] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | Hoagland | 9780882712192' details processed 
+2018-05-25 18:10:25,137 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:25,888 [6] INFO   [(null)] - Zieglers. Product 'The New Saint Joseph First Communion Catechism (2012) | Kelly | 9780899422404' details processed 
+2018-05-25 18:10:25,918 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:26,666 [11] INFO   [(null)] - Zieglers. Product 'Jesus Speaks to Me On My First Holy Communion | Burrin | 9781593251499' details processed 
+2018-05-25 18:10:26,684 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:27,433 [9] INFO   [(null)] - Zieglers. Product 'Night Before My First Communion | Book | Wing  32 Pages| 9781524786199' details processed 
+2018-05-25 18:10:27,452 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:28,201 [11] INFO   [(null)] - Zieglers. Product 'Metal Bookmark | First Communion | Ribbon Accent | DIBKM7084B' details processed 
+2018-05-25 18:10:28,234 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:28,984 [9] INFO   [(null)] - Zieglers. Product 'Metal Bookmark  | First Communion | Ribbon Accent |  DIBKM7092B' details processed 
+2018-05-25 18:10:29,006 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:29,693 [6] INFO   [(null)] - Zieglers. Product 'First Communion Mass Book | Missal & Prayer Book | Hardcover | 9781936837526' details processed 
+2018-05-25 18:10:29,736 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:30,495 [11] INFO   [(null)] - Zieglers. Product 'First Communion | Bible | St. Joseph Edition | For Girl | 9780899429564' details processed 
+2018-05-25 18:10:30,520 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:31,245 [6] INFO   [(null)] - Zieglers. Product 'First Communion | Bible | St. Joseph Edition | for Boy | 9780899429557' details processed 
+2018-05-25 18:10:31,279 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:31,986 [11] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | Maroon | 9780882710143' details processed 
+2018-05-25 18:10:32,111 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:32,883 [6] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882710150' details processed 
+2018-05-25 18:10:32,910 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:33,619 [11] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712208' details processed 
+2018-05-25 18:10:33,641 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:34,348 [6] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712250' details processed 
+2018-05-25 18:10:34,372 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:35,072 [9] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712277' details processed 
+2018-05-25 18:10:35,100 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:35,833 [11] INFO   [(null)] - Zieglers. Product 'A Catholic Child's First Communion Bible | White | 9780882712536' details processed 
+2018-05-25 18:10:35,862 [13] INFO   [(null)] - Zieglers. Starting 1 threads 
+2018-05-25 18:10:36,567 [1] INFO   [(null)] - UniversalMapper. Cancel 
+2018-05-25 18:10:36,581 [9] INFO   [(null)] - Zieglers. Product 'A Keepsake Of Your First Holy Communion | Gift Set | Boy | RI11400COB' details processed 
+2018-05-25 18:10:36,606 [1] INFO   [(null)] - Zieglers. Cancel 
+2018-05-25 18:10:36,643 [9] ERROR  [(null)] - System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'Form1'.
+   at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at System.Windows.Forms.Control.Invoke(Delegate method)
+   at WheelsScraper.MessagesPanelManager.PrintMessage(String appName, String description, ImportanceLevel impLevel) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\MessagesPanelManager.cs:line 48
+   at WheelsScraper.MessagePrinter.PrintMessage(String appName, String description, ImportanceLevel impLevel) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\MessagesPanelManager.cs:line 111
+   at WheelsScraper.MessagePrinter.PrintMessage(String description) in C:\Projects\EDF\WheelsScraper 2\WheelsScraper\MessagesPanelManager.cs:line 121
+   at Zieglers.Zieglers.ProcessDetailsPage(ProcessQueueItem pqi) in D:\projects\scraper\EDF\EDF Modules\Zieglers\Zieglers.cs:line 348
+   at WheelsScraper.BaseScraper.ExecuteActionWithoutWait(Action`1 act, ProcessQueueItem pqi) in C:\Projects\EDF\WheelsScraper 2\Scraper.Lib.Main\BaseScraper.cs:line 845
+2018-05-25 18:10:36,652 [9] ERROR  [(null)] - Zieglers. Cannot access a disposed object.
+Object name: 'Form1'. 
+2018-05-25 18:10:36,682 [10] INFO   [(null)] - Zieglers. Complete 
