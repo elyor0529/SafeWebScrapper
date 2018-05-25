@@ -114,7 +114,7 @@
       <DependentUpon>ucExtSettings.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
-    <None Include="Jobboerse.edf">
+    <None Include="EDF\Jobboerse.edf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="packages.config" />

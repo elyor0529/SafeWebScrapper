@@ -65,9 +65,9 @@ namespace WheelsScraper
 
 		protected override void RealStartProcess()
 		{
-			//lstProcessQueue.Add(new ProcessQueueItem { URL = Url, ItemType = 1 });
-			//StartOrPushPropertiesThread();
-		}
+            lstProcessQueue.Add(new ProcessQueueItem { URL = Url, ItemType = 1 });
+            StartOrPushPropertiesThread();
+        }
 
 	    private void ProcessBrandsListPage(ProcessQueueItem pqi)
 		{
