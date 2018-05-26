@@ -1,0 +1,18 @@
+D:\projects\EDF\WheelsScraper 2\WheelsScraper\bin\Debug\Zieglers.edf
+D:\projects\EDF\WheelsScraper 2\WheelsScraper\bin\Debug\Zieglers.dll
+D:\projects\EDF\WheelsScraper 2\WheelsScraper\bin\Debug\Zieglers.pdb
+D:\projects\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.csprojResolveAssemblyReference.cache
+D:\projects\EDF\EDF Modules\Zieglers\obj\Debug\Databox.Libs.Zieglers.ucExtSettings.resources
+D:\projects\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.csproj.GenerateResource.Cache
+D:\projects\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.dll.licenses
+D:\projects\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.dll
+D:\projects\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.pdb
+F:\projects\EASY DATA FEED\EDF\WheelsScraper 2\WheelsScraper\bin\Debug\Zieglers.edf
+F:\projects\EASY DATA FEED\EDF\WheelsScraper 2\WheelsScraper\bin\Debug\Zieglers.dll
+F:\projects\EASY DATA FEED\EDF\WheelsScraper 2\WheelsScraper\bin\Debug\Zieglers.pdb
+F:\projects\EASY DATA FEED\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.csprojResolveAssemblyReference.cache
+F:\projects\EASY DATA FEED\EDF\EDF Modules\Zieglers\obj\Debug\Databox.Libs.Zieglers.ucExtSettings.resources
+F:\projects\EASY DATA FEED\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.csproj.GenerateResource.Cache
+F:\projects\EASY DATA FEED\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.dll.licenses
+F:\projects\EASY DATA FEED\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.dll
+F:\projects\EASY DATA FEED\EDF\EDF Modules\Zieglers\obj\Debug\Zieglers.pdb

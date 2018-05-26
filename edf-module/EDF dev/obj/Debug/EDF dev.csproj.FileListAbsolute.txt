@@ -1,0 +1,37 @@
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF_dev.Form1.resources
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.Cache
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.exe
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.pdb
+e:\MyProgs\EDF dev\EDF dev\EDF dev.exe
+e:\MyProgs\EDF dev\EDF dev\EDF dev.pdb
+e:\MyProgs\EDF dev\EDF dev\obj\Debug\EDF dev.csprojResolveAssemblyReference.cache
+e:\MyProgs\EDF dev\EDF dev\bin\Debug\EDF dev.exe
+e:\MyProgs\EDF dev\EDF dev\bin\Debug\EDF dev.pdb
+D:\projects\EDF\EDF dev\EDF dev\bin\Debug\EDF dev.exe
+D:\projects\EDF\EDF dev\EDF dev\bin\Debug\EDF dev.pdb
+D:\projects\EDF\EDF dev\EDF dev\obj\Debug\EDF dev.csprojResolveAssemblyReference.cache
+D:\projects\EDF\EDF dev\EDF dev\obj\Debug\EDF_dev.Form1.resources
+D:\projects\EDF\EDF dev\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+D:\projects\EDF\EDF dev\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.Cache
+D:\projects\EDF\EDF dev\EDF dev\obj\Debug\EDF dev.exe
+D:\projects\EDF\EDF dev\EDF dev\obj\Debug\EDF dev.pdb
+D:\projects\EDF\EDF\EDF dev\bin\Debug\EDF dev.exe
+D:\projects\EDF\EDF\EDF dev\bin\Debug\EDF dev.pdb
+D:\projects\EDF\EDF\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+D:\projects\EDF\EDF\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.Cache
+D:\projects\EDF\EDF\EDF dev\obj\Debug\EDF dev.exe
+D:\projects\EDF\EDF\EDF dev\obj\Debug\EDF dev.pdb
+D:\projects\EDF\EDF dev\bin\Debug\EDF dev.exe
+D:\projects\EDF\EDF dev\bin\Debug\EDF dev.pdb
+D:\projects\EDF\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+D:\projects\EDF\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.Cache
+D:\projects\EDF\EDF dev\obj\Debug\EDF dev.exe
+D:\projects\EDF\EDF dev\obj\Debug\EDF dev.pdb
+F:\projects\EASY DATA FEED\EDF\EDF dev\bin\Debug\EDF dev.exe
+F:\projects\EASY DATA FEED\EDF\EDF dev\bin\Debug\EDF dev.pdb
+F:\projects\EASY DATA FEED\EDF\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+F:\projects\EASY DATA FEED\EDF\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.Cache
+F:\projects\EASY DATA FEED\EDF\EDF dev\obj\Debug\EDF dev.exe
+F:\projects\EASY DATA FEED\EDF\EDF dev\obj\Debug\EDF dev.pdb
+F:\projects\EASY DATA FEED\EDF\EDF dev\obj\Debug\EDF dev.csprojResolveAssemblyReference.cache

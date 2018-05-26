@@ -1,0 +1,20 @@
+2017-07-01 18:30:06,721 [5] INFO   [(null)] - Checking for updates
+2017-07-01 18:30:10,196 [5] INFO   [(null)] - File EasyDataFeed.exe should be updated. Version on server: 1.40.14.8872
+2017-07-01 18:30:10,198 [5] INFO   [(null)] - File EasyDataFeed.exe.config should be updated. Version on server: 
+2017-07-01 18:30:10,215 [5] INFO   [(null)] - File EasyDataFeed.pdb should be updated. Version on server: 
+2017-07-01 18:30:10,277 [5] INFO   [(null)] - File sqlceca40.dll should be updated. Version on server: 4.0.8876.1
+2017-07-01 18:30:10,277 [5] INFO   [(null)] - File sqlcecompact40.dll should be updated. Version on server: 4.0.8876.1
+2017-07-01 18:30:10,277 [5] INFO   [(null)] - File sqlceer40EN.dll should be updated. Version on server: 4.0.8876.1
+2017-07-01 18:30:10,277 [5] INFO   [(null)] - File sqlceme40.dll should be updated. Version on server: 4.0.8876.1
+2017-07-01 18:30:10,277 [5] INFO   [(null)] - File sqlceqp40.dll should be updated. Version on server: 4.0.8876.1
+2017-07-01 18:30:10,277 [5] INFO   [(null)] - File sqlcese40.dll should be updated. Version on server: 4.0.8876.1
+2017-07-01 18:30:24,178 [5] INFO   [(null)] - Received file EasyDataFeed.exe. Size: 1451520
+2017-07-01 18:30:24,504 [5] INFO   [(null)] - Received file EasyDataFeed.exe.config. Size: 3203
+2017-07-01 18:30:38,712 [5] INFO   [(null)] - Received file EasyDataFeed.pdb. Size: 1594880
+2017-07-01 18:30:42,254 [5] INFO   [(null)] - Received file sqlceca40.dll. Size: 349920
+2017-07-01 18:30:43,408 [5] INFO   [(null)] - Received file sqlcecompact40.dll. Size: 90848
+2017-07-01 18:30:46,240 [5] INFO   [(null)] - Received file sqlceer40EN.dll. Size: 154336
+2017-07-01 18:30:47,729 [5] INFO   [(null)] - Received file sqlceme40.dll. Size: 67296
+2017-07-01 18:30:54,041 [5] INFO   [(null)] - Received file sqlceqp40.dll. Size: 642784
+2017-07-01 18:30:58,943 [5] INFO   [(null)] - Received file sqlcese40.dll. Size: 406240
+2017-07-01 18:30:58,960 [5] INFO   [(null)] - Update complete. Release = 72
