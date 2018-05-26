@@ -1,0 +1,7 @@
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\bin\Debug\EDF dev.exe
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\bin\Debug\EDF dev.pdb
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\obj\Debug\EDF_dev.Properties.Resources.resources
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\obj\Debug\EDF dev.csproj.GenerateResource.cache
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\obj\Debug\EDF dev.csproj.CoreCompileInputs.cache
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\obj\Debug\EDF dev.exe
+D:\projects\SafeWebScrapper\edf-tools\EDF dev\obj\Debug\EDF dev.pdb

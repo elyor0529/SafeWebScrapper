@@ -1,0 +1,6 @@
+2018-05-26 14:52:36,856 [5] INFO   [(null)] - Checking for updates
+2018-05-26 14:52:38,162 [5] INFO   [(null)] - Update complete. Release = 77
+2018-05-26 14:52:42,150 [1] INFO   [(null)] - . Starting scheduler in 10 seconds 
+2018-05-26 14:52:42,340 [1] INFO   [(null)] - Checking forced version for Jobboerse
+2018-05-26 14:52:43,445 [1] INFO   [(null)] - . Data feed Jobboerse loaded 
+2018-05-26 14:52:50,388 [1] INFO   [(null)] - Jobboerse. Cancel 

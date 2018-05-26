@@ -1,0 +1,11 @@
+D:\projects\SafeWebScrapper\edf-tools\WheelsScraper 2\WheelsScraper\bin\Debug\Jobboerse.dll.config
+D:\projects\SafeWebScrapper\edf-tools\WheelsScraper 2\WheelsScraper\bin\Debug\Jobboerse.dll
+D:\projects\SafeWebScrapper\edf-tools\WheelsScraper 2\WheelsScraper\bin\Debug\Jobboerse.pdb
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Jobboerse.Properties.Resources.resources
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Databox.Libs.Jobboerse.ucExtSettings.resources
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Jobboerse.csproj.GenerateResource.cache
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Jobboerse.csproj.CoreCompileInputs.cache
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Jobboerse.csproj.CopyComplete
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Jobboerse.dll
+D:\projects\SafeWebScrapper\edf-tools\EDF Modules\Jobboerse\obj\Debug\Jobboerse.pdb
+D:\projects\SafeWebScrapper\edf-tools\WheelsScraper 2\WheelsScraper\bin\Debug\Jobboerse.edf
